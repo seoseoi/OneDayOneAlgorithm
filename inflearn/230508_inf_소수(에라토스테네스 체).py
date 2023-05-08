@@ -1,3 +1,5 @@
+# list를 칸막이처럼 사용
+
 import sys
 
 n = int(sys.stdin.readline())
